@@ -1,5 +1,5 @@
 
-# Multi-Service Project Setup
+#Statskew Meta hackathon for healthcare Project Setup
 
 This repository consists of multiple services that must be run in parallel using separate terminals. Follow the instructions for each service below.
 
